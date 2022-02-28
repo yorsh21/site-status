@@ -6,7 +6,7 @@ repo: site-status # The name of this repository
 sites:
   - name: Insive
     url: https://insive.cl
-  - name: hHumidificadores
+  - name: Humidificadores
     url: https://humidificadores.cl
   - name: Ceta
     url: https://cetalimentos.cl
