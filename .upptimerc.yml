@@ -11,7 +11,7 @@ sites:
   - name: Ceta
     url: https://cetalimentos.cl
     
-assigness:
+assignees:
   - yorsh21
 
 status-website:
