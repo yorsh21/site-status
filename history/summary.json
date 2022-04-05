@@ -4,19 +4,19 @@
     "url": "https://insive.cl",
     "icon": "https://favicons.githubusercontent.com/insive.cl",
     "slug": "insive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 501,
-    "timeDay": 452,
-    "timeWeek": 482,
-    "timeMonth": 504,
-    "timeYear": 501,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 498,
+    "timeDay": 422,
+    "timeWeek": 470,
+    "timeMonth": 501,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 13
     }
   },
   {
