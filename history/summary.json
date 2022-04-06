@@ -22,7 +22,7 @@
     "url": "https://humidificadores.cl",
     "icon": "https://favicons.githubusercontent.com/humidificadores.cl",
     "slug": "humidificadores",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,26 +33,28 @@
     "timeWeek": 2487,
     "timeMonth": 2541,
     "timeYear": 2479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "Ceta",
     "url": "https://cetalimentos.cl",
     "icon": "https://favicons.githubusercontent.com/cetalimentos.cl",
     "slug": "ceta",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "77.43%",
+    "uptimeWeek": "96.78%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.40%",
     "time": 413,
-    "timeDay": 305,
-    "timeWeek": 345,
+    "timeDay": 344,
+    "timeWeek": 349,
     "timeMonth": 393,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 325
     }
   }
 ]
