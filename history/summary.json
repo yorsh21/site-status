@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 496,
-    "timeDay": 393,
+    "timeDay": 394,
     "timeWeek": 459,
     "timeMonth": 496,
     "timeYear": 496,
@@ -40,7 +40,7 @@
     "url": "https://cetalimentos.cl",
     "icon": "https://favicons.githubusercontent.com/cetalimentos.cl",
     "slug": "ceta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 345,
     "timeMonth": 393,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   }
 ]
