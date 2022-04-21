@@ -4,10 +4,10 @@
     "url": "https://insive.cl",
     "icon": "https://favicons.githubusercontent.com/insive.cl",
     "slug": "insive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 493,
@@ -15,14 +15,16 @@
     "timeWeek": 564,
     "timeMonth": 507,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 1
+    }
   },
   {
     "name": "Humidificadores",
     "url": "https://humidificadores.cl",
     "icon": "https://favicons.githubusercontent.com/humidificadores.cl",
     "slug": "humidificadores",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 2131,
     "timeMonth": 2316,
     "timeYear": 2340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-21": 0
+    }
   },
   {
     "name": "Ceta",
@@ -41,11 +45,11 @@
     "icon": "https://favicons.githubusercontent.com/cetalimentos.cl",
     "slug": "ceta",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 427,
     "timeDay": 632,
     "timeWeek": 421,
