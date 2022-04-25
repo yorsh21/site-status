@@ -4,19 +4,19 @@
     "url": "https://insive.cl",
     "icon": "https://favicons.githubusercontent.com/insive.cl",
     "slug": "insive",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 348,
-    "timeWeek": 590,
-    "timeMonth": 480,
-    "timeYear": 489,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 486,
+    "timeDay": 353,
+    "timeWeek": 564,
+    "timeMonth": 477,
+    "timeYear": 486,
     "dailyMinutesDown": {
-      "2022-04-25": 1
+      "2022-04-25": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://humidificadores.cl",
     "icon": "https://favicons.githubusercontent.com/humidificadores.cl",
     "slug": "humidificadores",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2333,
-    "timeDay": 2229,
-    "timeWeek": 2432,
-    "timeMonth": 2254,
-    "timeYear": 2333,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 2340,
+    "timeDay": 2481,
+    "timeWeek": 2465,
+    "timeMonth": 2268,
+    "timeYear": 2340,
     "dailyMinutesDown": {
-      "2022-04-25": 0
+      "2022-04-25": 17
     }
   },
   {
