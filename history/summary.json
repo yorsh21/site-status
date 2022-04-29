@@ -44,18 +44,19 @@
     "url": "https://cetalimentos.cl",
     "icon": "https://favicons.githubusercontent.com/cetalimentos.cl",
     "slug": "ceta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.62%",
-    "time": 430,
-    "timeDay": 383,
-    "timeWeek": 438,
-    "timeMonth": 432,
-    "timeYear": 430,
+    "time": 427,
+    "timeDay": 308,
+    "timeWeek": 412,
+    "timeMonth": 426,
+    "timeYear": 427,
     "dailyMinutesDown": {
+      "2022-04-29": 0,
       "2022-04-06": 325
     }
   }
