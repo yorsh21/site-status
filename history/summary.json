@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 476,
-    "timeDay": 417,
-    "timeWeek": 334,
-    "timeMonth": 448,
-    "timeYear": 476,
+    "time": 473,
+    "timeDay": 279,
+    "timeWeek": 339,
+    "timeMonth": 439,
+    "timeYear": 473,
     "dailyMinutesDown": {
       "2022-04-25": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 2316,
-    "timeDay": 2823,
-    "timeWeek": 2035,
-    "timeMonth": 2165,
-    "timeYear": 2316,
+    "time": 2312,
+    "timeDay": 2005,
+    "timeWeek": 2141,
+    "timeMonth": 2134,
+    "timeYear": 2312,
     "dailyMinutesDown": {
       "2022-04-25": 17
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/cetalimentos.cl",
     "slug": "ceta",
     "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "18.96%",
+    "uptime": "98.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "88.42%",
     "uptimeMonth": "96.59%",
-    "uptimeYear": "98.29%",
-    "time": 429,
-    "timeDay": 405,
-    "timeWeek": 426,
-    "timeMonth": 430,
-    "timeYear": 429,
+    "uptimeYear": "98.32%",
+    "time": 428,
+    "timeDay": 318,
+    "timeWeek": 381,
+    "timeMonth": 431,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2022-04-29": 1167,
       "2022-04-06": 325
